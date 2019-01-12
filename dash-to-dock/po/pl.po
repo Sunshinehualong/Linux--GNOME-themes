@@ -1,0 +1,489 @@
+# Polish translation for dash-to-dock GNOME Shell extension
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dash-to-dock package.
+# 
+# 
+# Piotr Sokół <psokol.l10n@gmail.com>, 2012, 2013, 2015, 2016, 2017., 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 55\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-23 08:17+0200\n"
+"PO-Revision-Date: 2017-09-23 09:07+0200\n"
+"Last-Translator: Piotr Sokół <psokol.l10n@gmail.com>\n"
+"Language-Team: polski <>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bits\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: prefs.js:120
+msgid "Primary monitor"
+msgstr "Podstawowy"
+
+#: prefs.js:129 prefs.js:136
+msgid "Secondary monitor "
+msgstr "Drugorzędny "
+
+#: prefs.js:161 Settings.ui.h:34
+msgid "Right"
+msgstr "Prawo"
+
+#: prefs.js:162 Settings.ui.h:31
+msgid "Left"
+msgstr "Lewo"
+
+#: prefs.js:212
+msgid "Intelligent autohide customization"
+msgstr "Dostosowanie automatycznego ukrywania"
+
+#: prefs.js:219 prefs.js:404 prefs.js:461
+msgid "Reset to defaults"
+msgstr "Przywróć domyślne"
+
+#: prefs.js:397
+msgid "Show dock and application numbers"
+msgstr "Wyświetlanie doku i numerów programów"
+
+#: prefs.js:454
+msgid "Customize middle-click behavior"
+msgstr "Dostosowanie działania przycisków myszy"
+
+#: prefs.js:525
+msgid "Customize running indicators"
+msgstr "Dostosowanie wskaźników okien"
+
+#: prefs.js:634
+msgid "Cutomize opacity"
+msgstr "Dostosowanie nieprzejrzystości"
+
+#: appIcons.js:1144
+msgid "All Windows"
+msgstr "Wszystkie okna"
+
+#. Translators: %s is "Settings", which is automatically translated. You
+#. can also translate the full message if this fits better your language.
+#: appIcons.js:1450
+#, javascript-format
+msgid "Dash to Dock %s"
+msgstr "%s Dash to Dock"
+
+#: Settings.ui.h:1
+msgid "Customize indicator style"
+msgstr "Dostosowanie stylu wskaźników"
+
+#: Settings.ui.h:2
+msgid "Color"
+msgstr "Kolor"
+
+#: Settings.ui.h:3
+msgid "Border color"
+msgstr "Kolor obramowania"
+
+#: Settings.ui.h:4
+msgid "Border width"
+msgstr "Szerokość obramowania"
+
+#: Settings.ui.h:5
+msgid "Number overlay"
+msgstr "Nakładka z numerem"
+
+#: Settings.ui.h:6
+msgid ""
+"Temporarily show the application numbers over the icons, corresponding to "
+"the shortcut."
+msgstr "Wyświetla chwilowo na ikonach numery programów powiązane ze skrótami"
+
+#: Settings.ui.h:7
+msgid "Show the dock if it is hidden"
+msgstr "Wyświetlenie ukrytego doku"
+
+#: Settings.ui.h:8
+msgid ""
+"If using autohide, the dock will appear for a short time when triggering the "
+"shortcut."
+msgstr "Wyświetla chwilowo dok po wciśnięciu skrótu klawiszowego"
+
+#: Settings.ui.h:9
+msgid "Shortcut for the options above"
+msgstr "Skrót klawiszowy dla powyższych poleceń"
+
+#: Settings.ui.h:10
+msgid "Syntax: <Shift>, <Ctrl>, <Alt>, <Super>"
+msgstr "Składnia: <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui.h:11
+msgid "Hide timeout (s)"
+msgstr "Czas ukrywania (s)"
+
+#: Settings.ui.h:12
+msgid ""
+"When set to minimize, double clicking minimizes all the windows of the "
+"application."
+msgstr ""
+"Wybranie zminimalizowania okna, umożliwia minimalizowanie wszystkich okien "
+"programu dwukrotnym kliknięciem"
+
+#: Settings.ui.h:13
+msgid "Shift+Click action"
+msgstr "Kliknięcia lewym przyciskiem + Shift"
+
+#: Settings.ui.h:14
+msgid "Raise window"
+msgstr "Przywrócenie okna"
+
+#: Settings.ui.h:15
+msgid "Minimize window"
+msgstr "Zminimalizowanie okna"
+
+#: Settings.ui.h:16
+msgid "Launch new instance"
+msgstr "Otwarcie nowego okna"
+
+#: Settings.ui.h:17
+msgid "Cycle through windows"
+msgstr "Przełączenie pomiędzy oknami"
+
+#: Settings.ui.h:18
+msgid "Minimize or overview"
+msgstr "Zminimalizowanie lub ekran podglądu"
+
+#: Settings.ui.h:19
+msgid "Show window previews"
+msgstr "Wyświetlenie podglądu okien"
+
+#: Settings.ui.h:20
+msgid "Quit"
+msgstr "Zakończenie działania"
+
+#: Settings.ui.h:21
+msgid "Behavior for Middle-Click."
+msgstr "Konfiguruje działanie kliknięcia środkowym przyciskiem myszy"
+
+#: Settings.ui.h:22
+msgid "Middle-Click action"
+msgstr "Kliknięcie środkowym przyciskiem"
+
+#: Settings.ui.h:23
+msgid "Behavior for Shift+Middle-Click."
+msgstr ""
+"Konfiguruje działanie kliknięcia środkowym przyciskiem myszy z przytrzymanym "
+"klawiszem Shift"
+
+#: Settings.ui.h:24
+msgid "Shift+Middle-Click action"
+msgstr "Kliknięcie środkowym przyciskiem + Shift"
+
+#: Settings.ui.h:25
+msgid "Customize minimum and maximum opacity values"
+msgstr "Dostosowanie minimalnej i maksymalnej wartości nieprzejrzystości"
+
+#: Settings.ui.h:26
+msgid "Minimum opacity"
+msgstr "Minimalna nieprzejrzystość"
+
+#: Settings.ui.h:27
+msgid "Maximum opacity"
+msgstr "Maksymalna nieprzejrzystość"
+
+#: Settings.ui.h:28
+msgid "Show the dock on"
+msgstr "Ekran wyświetlania doku"
+
+#: Settings.ui.h:29
+msgid "Show on all monitors."
+msgstr "Na wszystkich ekranach"
+
+#: Settings.ui.h:30
+msgid "Position on screen"
+msgstr "Położenie na ekranie"
+
+#: Settings.ui.h:32
+msgid "Bottom"
+msgstr "Dół"
+
+#: Settings.ui.h:33
+msgid "Top"
+msgstr "Góra"
+
+#: Settings.ui.h:35
+msgid ""
+"Hide the dock when it obstructs a window of the current application. More "
+"refined settings are available."
+msgstr ""
+"Ukrywa dok jeśli zakrywa okno bieżącego programu. Dostępnych jest więcej "
+"szczegółowych opcji."
+
+#: Settings.ui.h:36
+msgid "Intelligent autohide"
+msgstr "Inteligentne ukrywanie"
+
+#: Settings.ui.h:37
+msgid "Dock size limit"
+msgstr "Ograniczenie rozmiaru doku"
+
+#: Settings.ui.h:38
+msgid "Panel mode: extend to the screen edge"
+msgstr "Tryb panelu: rozciągnięcie do krawędzi ekranu"
+
+#: Settings.ui.h:39
+msgid "Icon size limit"
+msgstr "Ograniczenie rozmiaru ikon"
+
+#: Settings.ui.h:40
+msgid "Fixed icon size: scroll to reveal other icons"
+msgstr "Ustalony rozmiar ikon: odsłanianie ikon przewijaniem"
+
+#: Settings.ui.h:41
+msgid "Position and size"
+msgstr "Położenie i rozmiar"
+
+#: Settings.ui.h:42
+msgid "Show favorite applications"
+msgstr "Ulubione programy"
+
+#: Settings.ui.h:43
+msgid "Show running applications"
+msgstr "Uruchomione programy"
+
+#: Settings.ui.h:44
+msgid "Isolate workspaces."
+msgstr "Izolowanie obszarów roboczych"
+
+#: Settings.ui.h:45
+msgid "Isolate monitors."
+msgstr "Izolowanie ekranów"
+
+#: Settings.ui.h:46
+msgid "Show open windows previews."
+msgstr "Podgląd otwartych okien"
+
+#: Settings.ui.h:47
+msgid ""
+"If disabled, these settings are accessible from gnome-tweak-tool or the "
+"extension website."
+msgstr ""
+"Przełącza widoczność przycisku programów. Można też skonfigurować za pomocą "
+"narzędzia dostrajania lub witryny internetowej z rozszerzeniami."
+
+#: Settings.ui.h:48
+msgid "Show <i>Applications</i> icon"
+msgstr "Przycisk <i>Wyświetl programy</i>"
+
+#: Settings.ui.h:49
+msgid "Move the applications button at the beginning of the dock."
+msgstr "Przemieszczenie przycisku programów na początek doku"
+
+#: Settings.ui.h:50
+msgid "Animate <i>Show Applications</i>."
+msgstr "Animowanie przycisku <i>Wyświetl programy</i>"
+
+#: Settings.ui.h:51
+msgid "Launchers"
+msgstr "Aktywatory"
+
+#: Settings.ui.h:52
+msgid ""
+"Enable Super+(0-9) as shortcuts to activate apps. It can also be used "
+"together with Shift and Ctrl."
+msgstr ""
+"Używa skrótu Super+(0-9) do uruchomienia aktywatorów. Można użyć z "
+"modyfikatorem Shift lub Ctrl."
+
+#: Settings.ui.h:53
+msgid "Use keyboard shortcuts to activate apps"
+msgstr "Uruchamianie aktywatorów skrótami klawiszowymi"
+
+#: Settings.ui.h:54
+msgid "Behaviour when clicking on the icon of a running application."
+msgstr "Określa działanie kliknięcia ikony uruchomionego programu"
+
+#: Settings.ui.h:55
+msgid "Click action"
+msgstr "Działanie kliknięcia"
+
+#: Settings.ui.h:56
+msgid "Minimize"
+msgstr "Zminimalizowanie okna"
+
+#: Settings.ui.h:57
+msgid "Behaviour when scrolling on the icon of an application."
+msgstr "Określa działanie przewijania kółkiem ikony programu"
+
+#: Settings.ui.h:58
+msgid "Scroll action"
+msgstr "Działanie przewijania"
+
+#: Settings.ui.h:59
+msgid "Do nothing"
+msgstr "Brak"
+
+#: Settings.ui.h:60
+msgid "Switch workspace"
+msgstr "Przełączenie obszaru roboczego"
+
+#: Settings.ui.h:61
+msgid "Behavior"
+msgstr "Zachowanie"
+
+#: Settings.ui.h:62
+msgid ""
+"Few customizations meant to integrate the dock with the default GNOME theme. "
+"Alternatively, specific options can be enabled below."
+msgstr ""
+"Integruje dok z domyślnym stylem GNOME przy użyciu kilku ustawień. "
+"Opcjonalnie ustawienia te można określić poniżej."
+
+#: Settings.ui.h:63
+msgid "Use built-in theme"
+msgstr "Użycie zintegrowanego stylu"
+
+#: Settings.ui.h:64
+msgid "Save space reducing padding and border radius."
+msgstr ""
+"Zmniejsza zajmowaną powierzchnię redukując\n"
+"odległość od krawędzi i jej zaokrąglenie"
+
+#: Settings.ui.h:65
+msgid "Shrink the dash"
+msgstr "Zmniejszenie kokpitu"
+
+#: Settings.ui.h:66
+msgid "Show a dot for each windows of the application."
+msgstr "Wyświetla kropkę dla każdego okna programu"
+
+#: Settings.ui.h:67
+msgid "Show windows counter indicators"
+msgstr "Wskaźniki ilości okien"
+
+#: Settings.ui.h:68
+msgid "Set the background color for the dash."
+msgstr "Ustala wybrany kolor tła kokpitu"
+
+#: Settings.ui.h:69
+msgid "Customize the dash color"
+msgstr "Kolor kokpitu"
+
+#: Settings.ui.h:70
+msgid "Tune the dash background opacity."
+msgstr "Modyfikuje zaciemnienie tła kokpitu"
+
+#: Settings.ui.h:71
+msgid "Customize opacity"
+msgstr "Dostosowanie nieprzejrzystości"
+
+#: Settings.ui.h:72
+msgid "Default"
+msgstr "Domyślna"
+
+#: Settings.ui.h:73
+msgid "Fixed"
+msgstr "Ustalona"
+
+#: Settings.ui.h:74
+msgid "Adaptive"
+msgstr "Adaptacyjna"
+
+#: Settings.ui.h:75
+msgid "Dynamic"
+msgstr "Dynamiczna"
+
+#: Settings.ui.h:76
+msgid "Opacity"
+msgstr "Nieprzejrzystość"
+
+#: Settings.ui.h:77
+msgid "Enable Unity7 like glossy backlit items"
+msgstr "Podświetlenie elementów w stylu Unity7"
+
+#: Settings.ui.h:78
+msgid "Force straight corner\n"
+msgstr "Kąty proste narożników\n"
+
+#: Settings.ui.h:80
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: Settings.ui.h:81
+msgid "version: "
+msgstr "wersja: "
+
+#: Settings.ui.h:82
+msgid "Moves the dash out of the overview transforming it in a dock"
+msgstr "Przemieszcza kokpit z widoku podglądu do doku"
+
+#: Settings.ui.h:83
+msgid "Created by"
+msgstr "Autor:"
+
+#: Settings.ui.h:84
+msgid "Webpage"
+msgstr "Strona internetowa"
+
+#: Settings.ui.h:85
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Niniejszy program rozpowszechniany jest bez "
+"jakiejkolwiek gwarancji.\n"
+"Więcej informacji: <a href=\"https://www.gnu.org/licenses/old-licenses/"
+"gpl-2.0.html\">Powszechna licencja publiczna GNU, wersja 2 lub późniejsza</"
+"a>.</span>"
+
+#: Settings.ui.h:87
+msgid "About"
+msgstr "O programie"
+
+#: Settings.ui.h:88
+msgid "Show the dock by mouse hover on the screen edge."
+msgstr "Wyświetla dok po przemieszczeniu wskaźnika myszy do krawędzi ekranu"
+
+#: Settings.ui.h:89
+msgid "Autohide"
+msgstr "Automatyczne ukrywanie"
+
+#: Settings.ui.h:90
+msgid "Push to show: require pressure to show the dock"
+msgstr "Wymagany nacisk do wyświetlenia doku"
+
+#: Settings.ui.h:91
+msgid "Enable in fullscreen mode"
+msgstr "Wyświetlanie na pełnym ekranie"
+
+#: Settings.ui.h:92
+msgid "Show the dock when it doesn't obstruct application windows."
+msgstr "Wyświetla dok jeśli nie zakrywa okien programu"
+
+#: Settings.ui.h:93
+msgid "Dodge windows"
+msgstr "Ukrywanie przed oknami"
+
+#: Settings.ui.h:94
+msgid "All windows"
+msgstr "Wszystkie okna"
+
+#: Settings.ui.h:95
+msgid "Only focused application's windows"
+msgstr "Tylko aktywne okna programu"
+
+#: Settings.ui.h:96
+msgid "Only maximized windows"
+msgstr "Tylko zmaksymalizowane okna"
+
+#: Settings.ui.h:97
+msgid "Animation duration (s)"
+msgstr "Czas animacji (s)"
+
+#: Settings.ui.h:98
+msgid "Show timeout (s)"
+msgstr "Czas wyświetlania (s)"
+
+#: Settings.ui.h:99
+msgid "Pressure threshold"
+msgstr "Próg nacisku"
