@@ -57,7 +57,7 @@ git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
 >GNOME Shell Extensions is a collection of extensions providing additional and optional functionality to GNOME Shell.
 
 - [A dock for the GNOME Shell 在桌面底端开启一个图标栏](https://github.com/micheleg/dash-to-dock)
-
+- [gnome-shell-simple-dock 跟上面功能类似的一个插件](https://github.com/optimisme/gnome-shell-simple-dock)
 >This extension enhances the dash moving it out of the overview and transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops without having to leave the desktop view.
 
 ![dash to dock ](https://raw.githubusercontent.com/micheleg/dash-to-dock/master/media/screenshot.jpg)
