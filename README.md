@@ -2,13 +2,14 @@
 一些比较精美的Linux桌面主题合集，打造一款属于自己的精美Linux系统
 
 
-[TOC]
+
 
 ## Tools install
 
 
 
 ## 主题
+> 新建一个.themes文件夹  mkdir ~/.themes
 
 - [Flat Remix GNOME theme](https://github.com/daniruiz/flat-remix-gnome)
 > Flat Remix GNOME theme is a pretty simple shell theme inspired on material design. It follows a modern design using "flat" colors with high contrasts and sharp borders.
@@ -28,7 +29,23 @@ gsettings set org.gnome.shell.extensions.user-theme name "Flat-Remix";
 
 ```
 
-## 图标
+## 图标集
+> 新建一个.icons文件夹   mkdir ~/.icons
+
+- [la-capitaine-icon-theme MacOS 图标集](https://github.com/keeferrourke/la-capitaine-icon-theme)
+>La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design through the use of visually pleasing gradients, shadowing, and simple icon geometry.
+
+!(https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/.product/preview.png)
+
+使用方法
+
+```
+cd ~/.icons
+git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
+```
+
+
+
 
 ## 拓展插件
 
