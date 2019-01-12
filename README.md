@@ -20,6 +20,9 @@
  - Flat-Remix-Miami-Dark
  - Flat-Remix-Miami
 
+![Flat Remix GNOME theme](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/2.png)
+
+
 使用的时候，下载这个主题包
 
 ```
