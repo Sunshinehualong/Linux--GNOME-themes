@@ -35,13 +35,14 @@ gsettings set org.gnome.shell.extensions.user-theme name "Flat-Remix";
 - [la-capitaine-icon-theme MacOS 图标集](https://github.com/keeferrourke/la-capitaine-icon-theme)
 >La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design through the use of visually pleasing gradients, shadowing, and simple icon geometry.
 
-!(https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/.product/preview.png)
+![la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/.product/preview.png)
 
 使用方法
 
 ```
 cd ~/.icons
 git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
+使用gnome-tweak-tool，Select "la-capitaine-icon-theme" as  Appearance/Icons
 ```
 
 
