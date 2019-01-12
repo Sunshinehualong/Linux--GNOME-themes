@@ -6,6 +6,11 @@
 
 ## Tools install
 
+```
+sudo apt-get install gnome 
+sudo apt-get install gnome-shell
+sudo apt-get install gnome-tweak-tool
+```
 
 
 ## 主题
